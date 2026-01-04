@@ -1,0 +1,26 @@
+# --- Python & Jupyter ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.virtualenvs/
+venv/
+ENV/
+
+# --- Dane (Ważne!) ---
+# Często zbiory danych (CSV/XLSX) są za duże na GitHuba.
+# Odkomentuj poniższe, jeśli nie chcesz wysyłać dużych plików danych:
+# *.csv
+# *.xlsx
+# *.json
+
+# --- Tableau ---
+# Pliki tymczasowe Tableau
+*.twld
+*.tweb
+*.tmp
+
+# --- Systemowe ---
+.DS_Store
+Thumbs.db
+.env
