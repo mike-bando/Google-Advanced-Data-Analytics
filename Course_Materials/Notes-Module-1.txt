@@ -9,22 +9,21 @@ Glossary terms from module 1
 Terms and definitions from Course 1, Module 1
 Data professional: Any individual who works with data and/or has data skills
 
-Data science: The discipline of making data useful
+Data science:
+The discipline of making data useful
 
-Data stewardship: The practices of an organization that ensure that data is accessible, usable, and safe
+Data stewardship:
+The practices of an organization that ensure that data is accessible, usable, and safe
 
-Edge computing: A way of distributing computational tasks over a bunch of nearby processors (i.e., computers) that is good for speed and resiliency and does not depend on a single source of computational power
+Edge computing:
+A way of distributing computational tasks over a bunch of nearby processors (i.e., computers) that is good for speed and resiliency and does not depend on a single source of computational power
 
-Jupyter Notebook: An open-source web application used to create and share documents that contain live code, equations, visualizations, and narrative text
+Machine learning:
+The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data
 
-Machine learning: The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data
+Metrics:
+Methods and criteria used to evaluate data
 
-Metrics: Methods and criteria used to evaluate data
-
-Python: A general-purpose programming language
-
-
---------------------------------------------------
 ============================================================
 GOOGLE ADVANCED DATA ANALYTICS: MODULE 2 NOTES
 Topic: The Impact of Data Today
@@ -131,82 +130,94 @@ Metrics: Methods and criteria used to evaluate data
 
 ============================================================
 Terms and definitions from Course 1, Module 3
-Active listening: Refers to allowing team members,
-leadership, and other collaborative stakeholders to share their own points of view before offering responses
+Active listening: Refers to allowing team members, leadership, and other collaborative stakeholders to share their own points of view
+before offering responses
 
-Analytics Team Manager: A data professional who supervises analytical strategy for an organization,
+Analytics Team Manager:
+A data professional who supervises analytical strategy for an organization,
 often managing multiple groups
 
-Business Intelligence Analyst: (Refer to Business Intelligence Engineer)
-
-Business Intelligence Engineer: A data professional who uses their knowledge of business trends and databases to organize information
+Business Intelligence Engineer:
+A data professional who uses their knowledge of business trends and databases to organize information
 and make it accessible; also referred to as a Business Intelligence Analyst
 
-Chief Data Officer: An executive-level data professional who is responsible for the consistency, accuracy, relevancy,
+Chief Data Officer:
+An executive-level data professional who is responsible for the consistency, accuracy, relevancy,
 interpretability, and reliability of the data a team provides
 
-Data cleaning: The process of formatting data and removing unwanted material
+Data cleaning:
+The process of formatting data and removing unwanted material
 
-Data Engineer: A data professional who makes data accessible, ensures data ecosystems offer reliable results,
+Data Engineer:
+A data professional who makes data accessible, ensures data ecosystems offer reliable results,
 and manages infrastructure for data across enterprises
 
-Data Scientist: A data professional who works closely with analytics to provide meaningful insights
+Data Scientist:
+A data professional who works closely with analytics to provide meaningful insights
 that help improve current business operations
 
-Interpersonal skills: Traits that focus on communicating and building relationships
+Interpersonal skills:
+Traits that focus on communicating and building relationships
 
-RACI chart: A visual that helps to define roles and responsibilities for individuals or teams to ensure
+RACI chart:
+A visual that helps to define roles and responsibilities for individuals or teams to ensure
 work gets done efficiently; lists who is responsible, accountable, consulted, and informed for project tasks
 
 Terms and definitions from previous modules
 
-Aggregate information: Data from a significant number of users that has eliminated personal information
+Aggregate information:
+Data from a significant number of users that has eliminated personal information
 
-Artificial intelligence (AI): Refers to computer systems able to perform tasks that normally require human intelligence
-
-
-Data anonymization: The process of protecting people's private or sensitive data by eliminating PII
-
-Data professional: Any individual who works with data and/or has data skills
-
-Data science: The discipline of making data useful
-
-Data stewardship: The practices of an organization that ensure that data is accessible, usable, and safe
+Artificial intelligence (AI):
+Refers to computer systems able to perform tasks that normally require human intelligence
 
 
-Edge computing: A way of distributing computational tasks over a bunch of nearby processors (i.e., computers)
+Data anonymization:
+The process of protecting people's private or sensitive data by eliminating PII
+
+Data professional:
+Any individual who works with data and/or has data skills
+
+Data science:
+The discipline of making data useful
+
+Data stewardship:
+The practices of an organization that ensure that data is accessible, usable, and safe
+
+
+Edge computing:
+A way of distributing computational tasks over a bunch of nearby processors (i.e., computers)
 that is good for speed and resiliency and does not depend on a single source of computational power
 
-Hackathon: An event where programmers and data professionals come together and work on a project
+Hackathon:
+An event where programmers and data professionals come together and work on a project
+
+Machine learning:
+The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data
+Metrics:
+Methods and criteria used to evaluate data
 
 
-Jupyter Notebook: An open-source web application used to create and share documents that contain live code,
-equations, visualizations, and narrative text
-
-Machine learning: The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data
-Metrics: Methods and criteria used to evaluate data
-
-
-Nonprofit: A  group organized for purposes other than generating profit; often aims to further a social cause
+Nonprofit:
+A  group organized for purposes other than generating profit; often aims to further a social cause
 or provide a benefit to the public
 
-Open data: Data that is available to the public and free to use, with guidance on how to navigate the datasets
+Open data:
+Data that is available to the public and free to use, with guidance on how to navigate the datasets
 and acknowledge the source
 
 
-Personally identifiable information (PII): Information that permits the identity of an individual
+Personally identifiable information (PII):
+Information that permits the identity of an individual
 to be inferred by either direct or indirect means
 
-Python: A general-purpose programming language
-
-Sample: A segment of a population that is representative of the entire population
-
-Tableau: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
+Sample:
+A segment of a population that is representative of the entire population
 
 
-====================================
+============================================================
 Study Notes: Data Applications and Workflow (Google Advanced DA)
-====================================
+============================================================
 
 The PACE Model – Your Professional Workflow
 The core of this module is the PACE framework (Plan, Analyze, Construct, Execute),
@@ -241,28 +252,175 @@ Communication: Translating complex data into actionable business stories (Data S
 Tasks: Interpreting results, creating visualizations, and presenting final insights to stakeholders.
 
 📘 Professional Glossary
-PACE: An acronym for Plan, Analyze, Construct, and Execute; a flexible workflow model for data science projects.
+PACE:
+An acronym for Plan, Analyze, Construct, and Execute; a flexible workflow model for data science projects.
 
-Stakeholder: Any individual or group, inside or outside an organization, who has an interest in the project's outcome.
+Stakeholder:
+Any individual or group, inside or outside an organization, who has an interest in the project's outcome.
 
-EDA (Exploratory Data Analysis): The process of exploring a dataset to summarize its main characteristics,
-often using visual methods.
+EDA (Exploratory Data Analysis):
+The process of exploring a dataset to summarize its main characteristics, often using visual methods.
 
-Project Scope: A document that defines the boundaries of a project—specifying what is included and what is not.
+Project Scope:
+A document that defines the boundaries of a project—specifying what is included and what is not.
 
-Predictive Modeling: The process of using historical data to predict future outcomes,
-such as through regression or classification models.
+Predictive Modeling:
+The process of using historical data to predict future outcomes, such as through regression or classification models.
 
-Data Lifecycle: The various stages data goes through, from collection and processing to analysis, archival, or deletion.
+Data Lifecycle:
+The various stages data goes through, from collection and processing to analysis, archival, or deletion.
 
-Workflow: A structured sequence of steps and tasks required to complete a project from start to finish.
+Workflow:
+A structured sequence of steps and tasks required to complete a project from start to finish.
 
 💡 Pro-tips for Data Professionals:
-Iterative Process: PACE is not always linear. You may need to return from the Construct phase to Analyze
-if you discover data quality issues mid-way.
+Iterative Process:
+PACE is not always linear. You may need to return from the Construct phase to Analyze if you discover data quality issues mid-way.
 
-Active Listening: Effective data professionals must practice active listening to fully understand
-stakeholder needs before starting technical work.
+Active Listening:
+Effective data professionals must practice active listening to fully understand stakeholder needs before starting technical work.
 
-Strategic Documentation: Keeping detailed notes during the Plan phase prevents "scope creep"
-and ensures the project stays aligned with the original business objective.
+Strategic Documentation:
+Keeping detailed notes during the Plan phase prevents "scope creep" and ensures the project stays aligned
+with the original business objective.
+
+
+
+Emails to different stakeholders: https://docs.google.com/document/d/102j4WYkZRBBZrKHa9R582hMgVOxOlJp1A3N0M_V_z0E/template/preview
+Visitation Prediction Project Proposal: https://docs.google.com/presentation/d/1ZfZLuP4eXtcuaVuKhkXSe1I66fRoH70Sjaze68IA3V0/template/preview
+Visitation Prediction Project - Executive summary: https://docs.google.com/presentation/d/1MQ2cXMvsWQfzTD6iAJqnj5Tvynrv4RCZQUnZie1ZuMo/template/preview?resourcekey=0-_Ck9PU4Bw_JHxrLqobHWXw
+Predictive Maintenance Project Proposal: https://docs.google.com/presentation/d/1I7PiTk36zHBWiVPZFvy-8LstjinqjH2kAjAslobW2Wk/template/preview?resourcekey=0-yNGMEfJW7zbY4cuWnIrk0Q
+
+============================================================
+***  End-of-course Project:  ***
+============================================================
+Automatidata
+
+Project goal:
+
+In this fictional scenario, the New York City Taxi and Limousine Commission (TLC)
+has approached the data consulting firm Automatidata to develop an app that enables TLC riders to estimate the taxi fares
+in advance of their ride.
+
+Background:
+
+Since 1971, TLC has been regulating and overseeing the licensing of New York City's taxi cabs, for-hire vehicles,
+commuter vans, and paratransit vehicles.
+
+Scenario:
+
+You are a newly-hired data professional at Automatidata, a fictional data consulting firm.
+Automatidata’s focus is to help clients transform their unused and stored data into useful solutions.
+In this scenario, you will consult with The New York City Taxi & Limousine Commission to develop an app
+that will help users (TLC riders) estimate their taxi fares before their ride. Your first responsibility as a data analytics consultant
+will be to structure the necessary tasks into a project proposal that establishes milestones for the ride fare data project.
+
+Course 1 tasks:
+
+Gather information from the notes from the last executive meeting of Automatidata
+
+Assign PACE stages to the requested tasks
+
+Organize tasks into milestones
+
+Create a project proposal for the executive team’s approval
+
+Note: The story, all names, characters, and incidents portrayed in this project are fictitious.
+No identification with actual persons (living or deceased) is intended or should be inferred.
+And, the data shared in this project has been created for pedagogical purposes.
+
+Key Takeaways
+In Course 1, Foundations of Data Science, you explored the world of data professionals and learned how data analysis contributes
+to an organization's goals.
+
+Course 1 skills:
+Effective communication
+
+Understand cross-functional team dynamics
+
+Project management
+
+Share insights and ideas with stakeholders
+
+Course 1 end-of-course project deliverables:
+Complete the Course 1 PACE strategy document
+
+Create a project proposal
+
+
+Meeting notes
+Now that you are working as Automatidata’s latest data analytics professional, you are given access to the company network and set up
+with a company email account (your first initial and last name, followed by @automatidata.org).
+
+Opening your inbox, you notice an email from your supervisor, Deshawn.
+
+From: Deshawn Washington
+
+Subject: Review meeting notes
+
+If you are able to read this, then your company accounts have been created! Now is the perfect time to get started.
+Last week, I attended an internal meeting with our leadership team about a new project we are about to begin.
+You’ll receive more information in the next few days,
+but I would like you to be aware of some needs that were identified by our leadership team.
+Here is an excerpt from the notes I took during the Automatidata leadership team meeting.
+I’ve organized the points by the person who made them.
+
+Uli King  (Senior Project Manager)
+
+The data team will need a global-level project document to outline the goals and milestones.
+
+I am working closely with Titus Nelson over at the New York City Taxi and Limo Commission.
+He has requested some visuals to share with TLC’s executives.
+
+Luana Rodriquez (Senior Data Analyst)
+
+The dataset from TLC has to be inspected before any analysis can begin.
+
+Our team needs to determine what information the TLC data provides through exploratory data analysis (EDA).
+
+Eventually, our team will need to test to find if the model is delivering consistent results.
+
+Udo Bankole (Director of Data Analysis)
+
+Before we present any insights to TLC, we'll need to determine whether or not the model we produce meets the project requirements.
+
+Once we have a final model, I'll need to know the main talking points going into our presentation with TLC.
+
+My thoughts and concerns…
+
+I think it's best to use Python for the TLC project. I'll have someone on my team set that up as soon as we have the plan in place.
+
+It will be important to establish the relationship between any variables within the TLC data.
+I'd suggest the data team consider A/B testing, since that will analyze the relationship between the two most useful variables
+and subsequently provide data-driven support for future business decisions.
+
+Review the meeting notes above to become familiar with the project’s context. I’ll ask you to identify project tasks and come up
+with a structure to guide the data team through this project. After our discussion about your experience in the certificate program
+offered by Google, I know that your efficient communication style and problem-solving will enhance the abilities of the data team.
+
+There will be more details sent to you very soon.
+
+Welcome to the team,
+
+Deshawn Washington
+
+Data Analysis Manager
+
+Automatidata
+
+(P.S. There will be muffins in the break room every Tuesday morning. Be early…unless you like bran muffins. LOL)
+
+
+Specific project deliverables
+With this end-of-course project, you will gain valuable practice and apply your new skills as you complete the following:
+
+Course 1 PACE Strategy Document to plan your project while considering your audience members, teammates, key milestones,
+and overall project goal.
+
+Create a project proposal for the data team.
+
+Key takeaways
+The Google Advanced Data Analytics Certificate end-of-course project is designed for you to practice and apply course skills
+in a fictional workplace scenario.
+By completing each course’s end-of-course project, you will have work examples that will enhance your portfolio
+and showcase your skills for future employers.
