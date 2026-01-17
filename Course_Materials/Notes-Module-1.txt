@@ -1,0 +1,268 @@
+Notatki z Google Advanced Data Analytics:
+
+@ Glossary (Słownik) - Advanced Data Analytics -
+https://docs.google.com/document/d/193-AtS7MlB2w4buwiCyPjBoOhIbbByKgHWPpYnSR9VI/template/preview?pli=1
+
+P.A.C.E. - Plan, Analyze, Construct and Execute
+
+Glossary terms from module 1
+Terms and definitions from Course 1, Module 1
+Data professional: Any individual who works with data and/or has data skills
+
+Data science: The discipline of making data useful
+
+Data stewardship: The practices of an organization that ensure that data is accessible, usable, and safe
+
+Edge computing: A way of distributing computational tasks over a bunch of nearby processors (i.e., computers) that is good for speed and resiliency and does not depend on a single source of computational power
+
+Jupyter Notebook: An open-source web application used to create and share documents that contain live code, equations, visualizations, and narrative text
+
+Machine learning: The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data
+
+Metrics: Methods and criteria used to evaluate data
+
+Python: A general-purpose programming language
+
+
+--------------------------------------------------
+============================================================
+GOOGLE ADVANCED DATA ANALYTICS: MODULE 2 NOTES
+Topic: The Impact of Data Today
+============================================================
+
+1. THE DATA ECOSYSTEM
+---------------------
+Definition: The collection of infrastructure, software, and people that gather,
+store, and analyze data.
+
+* Data Sources: Where data originates (sensors, transactions, social media).
+* Data Processing: Cleaning and organizing raw data.
+* Insights: The valuable conclusions drawn from analysis.
+
+2. DATA LIFE CYCLE (The 6 Stages)
+----------------------------------
+1. Plan: Define objectives and what data is needed.
+2. Capture: Collect data from various sources.
+3. Manage: Store and maintain data security/integrity.
+4. Analyze: Use tools to find patterns and trends.
+5. Archive: Store data for long-term use but remove from active systems.
+6. Destroy: Securely delete data when it's no longer needed.
+
+3. DATA ANALYST VS. DATA SCIENTIST
+----------------------------------
+* Data Analyst: Focuses on "What happened?" and "Why?". Uses SQL,
+  Tableau, and basic Python to help businesses make decisions now.
+* Data Scientist: Focuses on "What will happen?". Uses Advanced Python,
+  Machine Learning, and statistics to build predictive models.
+
+4. STRUCTURED VS. UNSTRUCTURED DATA (80-90% of data is unstructured)
+-----------------------------------
+* Structured Data: Organized in rows and columns (e.g., SQL tables, Excel).
+  Highly searchable and easy to analyze.
+* Unstructured Data: No predefined format (e.g., photos, videos, emails,
+  PDFs). Requires more advanced processing (like NLP or Computer Vision).
+
+5. DATA ETHICS & PRIVACY
+------------------------
+* Data Privacy: Protecting the identity and personal info of individuals.
+* Data Bias: When data is unrepresentative or reflects human prejudices.
+* Transparency: Being clear about how data is collected and used.
+
+6. KEY TERMS TO REMEMBER
+------------------------
+* Big Data: Massive volumes of data that cannot be processed by traditional tools.
+* Cloud Computing: Using remote servers on the internet to store/process data.
+* Algorithm: A set of rules or steps to solve a problem or perform a task.
+============================================================
+
+PII - Personally Identifiable Information - that permits the identity of an individual
+to be inferred by either direct or indirect means (ID Number, Health Care Number etc)
+
+============================================================
+
+Data anonymization is the process of protecting people's private or sensitive data by eliminating PII.
+Typically, data anonymization involves blanking, hashing, or masking personal information,
+often by using fixed-length codes to represent data columns, or hiding data with altered values.
+
+Data aggregation is the process of collecting and combining details from a significant
+number of users in terms of totals or summary.
+
+============================================================
+
+RACI - Responsible, Accountable, Consulted, and Informed
+
+Task
+R - Business Intelligence - Engineer
+C - Data Scientist
+R - Analytics Team Manager
+R - Data Engineer
+
+============================================================
+
+#### Glossary terms from Course 1, Module 2 ####
+Aggregate information: Data from a significant number of users that has eliminated personal information
+Artificial intelligence (AI): Refers to computer systems able to perform tasks that normally require human intelligence
+
+Data anonymization: The process of protecting people's private or sensitive data by eliminating PII
+
+Data stewardship: The practices of an organization that ensure that data is accessible, usable, and safe
+
+Edge computing: A way of distributing computational tasks over a bunch of nearby processors (i.e., computers)
+that is good for speed and resiliency and does not depend on a single source of computational power
+
+Hackathon: An event where programmers and data professionals come together and work on a project
+
+Nonprofit: A group organized for purposes other than generating profit;
+often aims to further a social cause or provide a benefit to the public
+
+Open data: Data that is available to the public and free to use,
+with guidance on how to navigate the datasets and acknowledge the source
+
+Personally identifiable information (PII): Information that permits
+the identity of an individual to be inferred by either direct or indirect means
+
+Sample: A segment of a population, often used to infer parameters of the whole population
+
+Data professional: Any individual who works with data and/or has data skills
+Data science: The discipline of making data useful
+Data stewardship: The practices of an organization that ensure that data is accessible, usable, and safe
+Machine learning: The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data
+Metrics: Methods and criteria used to evaluate data
+
+============================================================
+Terms and definitions from Course 1, Module 3
+Active listening: Refers to allowing team members,
+leadership, and other collaborative stakeholders to share their own points of view before offering responses
+
+Analytics Team Manager: A data professional who supervises analytical strategy for an organization,
+often managing multiple groups
+
+Business Intelligence Analyst: (Refer to Business Intelligence Engineer)
+
+Business Intelligence Engineer: A data professional who uses their knowledge of business trends and databases to organize information
+and make it accessible; also referred to as a Business Intelligence Analyst
+
+Chief Data Officer: An executive-level data professional who is responsible for the consistency, accuracy, relevancy,
+interpretability, and reliability of the data a team provides
+
+Data cleaning: The process of formatting data and removing unwanted material
+
+Data Engineer: A data professional who makes data accessible, ensures data ecosystems offer reliable results,
+and manages infrastructure for data across enterprises
+
+Data Scientist: A data professional who works closely with analytics to provide meaningful insights
+that help improve current business operations
+
+Interpersonal skills: Traits that focus on communicating and building relationships
+
+RACI chart: A visual that helps to define roles and responsibilities for individuals or teams to ensure
+work gets done efficiently; lists who is responsible, accountable, consulted, and informed for project tasks
+
+Terms and definitions from previous modules
+
+Aggregate information: Data from a significant number of users that has eliminated personal information
+
+Artificial intelligence (AI): Refers to computer systems able to perform tasks that normally require human intelligence
+
+
+Data anonymization: The process of protecting people's private or sensitive data by eliminating PII
+
+Data professional: Any individual who works with data and/or has data skills
+
+Data science: The discipline of making data useful
+
+Data stewardship: The practices of an organization that ensure that data is accessible, usable, and safe
+
+
+Edge computing: A way of distributing computational tasks over a bunch of nearby processors (i.e., computers)
+that is good for speed and resiliency and does not depend on a single source of computational power
+
+Hackathon: An event where programmers and data professionals come together and work on a project
+
+
+Jupyter Notebook: An open-source web application used to create and share documents that contain live code,
+equations, visualizations, and narrative text
+
+Machine learning: The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data
+Metrics: Methods and criteria used to evaluate data
+
+
+Nonprofit: A  group organized for purposes other than generating profit; often aims to further a social cause
+or provide a benefit to the public
+
+Open data: Data that is available to the public and free to use, with guidance on how to navigate the datasets
+and acknowledge the source
+
+
+Personally identifiable information (PII): Information that permits the identity of an individual
+to be inferred by either direct or indirect means
+
+Python: A general-purpose programming language
+
+Sample: A segment of a population that is representative of the entire population
+
+Tableau: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
+
+
+====================================
+Study Notes: Data Applications and Workflow (Google Advanced DA)
+====================================
+
+The PACE Model – Your Professional Workflow
+The core of this module is the PACE framework (Plan, Analyze, Construct, Execute),
+designed to organize complex data projects and ensure they meet business goals.
+
+1. Plan (Planning)
+This stage is about defining the problem and setting the foundation.
+
+Key Questions: What is the business goal? Who are the stakeholders? What data is available?
+
+Tasks: Researching business data, defining the project scope, and identifying stakeholder needs.
+
+2. Analyze (Analysis)
+The phase where you get your "hands dirty" with the raw data.
+
+EDA (Exploratory Data Analysis): Investigating the dataset to discover patterns, anomalies, and relationships.
+
+Tasks: Data sourcing, data cleaning, and verifying statistical assumptions.
+
+3. Construct (Building)
+The technical heart of the project where models are developed.
+
+Modeling: Selecting and applying appropriate machine learning algorithms or statistical methods.
+
+Tasks: Building models, training them, testing their performance, and validating results.
+
+4. Execute (Execution & Delivery)
+The final stage of presenting findings and providing recommendations.
+
+Communication: Translating complex data into actionable business stories (Data Storytelling).
+
+Tasks: Interpreting results, creating visualizations, and presenting final insights to stakeholders.
+
+📘 Professional Glossary
+PACE: An acronym for Plan, Analyze, Construct, and Execute; a flexible workflow model for data science projects.
+
+Stakeholder: Any individual or group, inside or outside an organization, who has an interest in the project's outcome.
+
+EDA (Exploratory Data Analysis): The process of exploring a dataset to summarize its main characteristics,
+often using visual methods.
+
+Project Scope: A document that defines the boundaries of a project—specifying what is included and what is not.
+
+Predictive Modeling: The process of using historical data to predict future outcomes,
+such as through regression or classification models.
+
+Data Lifecycle: The various stages data goes through, from collection and processing to analysis, archival, or deletion.
+
+Workflow: A structured sequence of steps and tasks required to complete a project from start to finish.
+
+💡 Pro-tips for Data Professionals:
+Iterative Process: PACE is not always linear. You may need to return from the Construct phase to Analyze
+if you discover data quality issues mid-way.
+
+Active Listening: Effective data professionals must practice active listening to fully understand
+stakeholder needs before starting technical work.
+
+Strategic Documentation: Keeping detailed notes during the Plan phase prevents "scope creep"
+and ensures the project stays aligned with the original business objective.
