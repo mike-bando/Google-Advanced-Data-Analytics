@@ -7,6 +7,10 @@ __pycache__/
 venv/
 ENV/
 
+
+# Python virtual environment
+google_course_env/
+
 # --- Dane (Ważne!) ---
 # Często zbiory danych (CSV/XLSX) są za duże na GitHuba.
 # Odkomentuj poniższe, jeśli nie chcesz wysyłać dużych plików danych:
@@ -24,3 +28,6 @@ ENV/
 .DS_Store
 Thumbs.db
 .env
+
+# Docker logs
+*.log
